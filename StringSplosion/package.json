@@ -1,0 +1,17 @@
+{
+  "name": "string-splosion",
+  "version": "1.0.0",
+  "description": "A function that splodes a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "adeleke adetokunbo",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
